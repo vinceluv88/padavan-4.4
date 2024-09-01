@@ -37,7 +37,7 @@ on:
         - Xiaoyu_C3
         - Xiaoyu_C5
         - ZTE_E8820S
-        default: Phicomm_K2P
+        default: Redmi_AC2100
       plugins:
         description: '请选择你需要集成的插件 y 表示集成  n 表示不集成'
         required: true
