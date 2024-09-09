@@ -51,7 +51,7 @@ env:
   WORK_PATH: /opt/padavan-4.4
   TIME_ZONE: Asia/Shanghai
   FIRMWARE_DATEPREFIX: $(date +"%Y%m%d")
-  FIRMWARE_AUTHOR: vinceluv
+  FIRMWARE_AUTHOR: tsl0922
   FIRMWARE_PATH: /opt/firmwares
   firmwarever: "${{ github.event.inputs.firmwarever }}"
 jobs:
